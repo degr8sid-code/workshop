@@ -1,0 +1,7 @@
+# folder name
+/node_modules
+# all files with
+# .txt extension
+*.txt
+# files
+index.txt
